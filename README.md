@@ -20,7 +20,7 @@ A food recommendation engine using a content-based approach is an important tool
 
 ### What is a content-based recommendation engine?
 A content-based recommendation engine is a type of recommendation system that uses the characteristics or content of an item to recommend similar items to users. It works by analyzing the content of items, such as text, images, or audio, and identifying patterns or features that are associated with certain items. These patterns or features are then used to compare items and recommend similar ones to users.
-<div align= "center"><img src="Assets/content_based_img.webp" /></div>
+
 
 ### Why content-based approach?
 
@@ -71,8 +71,6 @@ The project is created with:
 * streamlit-echarts 1.24.1
 * Numpy: 1.21.5
 * beautifulsoup4 4.11.1
-
-![](https://img.icons8.com/color/48/null/python--v1.png)![](https://img.icons8.com/color/48/null/numpy.png)![](Assets/streamlit-icon-48x48.png)![](Assets/fastapi.ico)![](Assets/scikit-learn.ico) ![](https://img.icons8.com/color/48/null/pandas.png)
 
 ## :whale: Setup
 
