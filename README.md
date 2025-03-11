@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Diet Recommendation System</h1>
-<div align= "center"><img src="Assets/logo_img1.jpg" />
   <h4>A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
 </div>
 
@@ -59,7 +58,6 @@ My project is composed of different services (frontend,API). Therefore, our appl
 
 ### Project Architecture
 
-<div align= "center"><img src="Assets/Architecture_diagram.png" width="600" height="400"/></div>
 
 
 ## :rocket: Technologies
